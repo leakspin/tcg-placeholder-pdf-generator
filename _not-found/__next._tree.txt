@@ -1,0 +1,3 @@
+:HL["/tcg-placeholder-pdf-generator/_next/static/chunks/429xe-980h983.css","style"]
+:HL["/tcg-placeholder-pdf-generator/_next/static/chunks/0vfolulss_cra.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"_0oscLNaCcsYG_JqwuY-P"}
